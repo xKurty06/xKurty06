@@ -21,7 +21,7 @@ I'm a **Computer Science student** and aspiring **Systems Software Developer**. 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zean-kurt-balboa-18b2a3358)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:zeankurtbalboa06@gmail.com)
 
-💡 **"Keep coding, keep learning, and keep building!"** 🚀
+💡 **"When life hurts, coding heals🫀"** 🚀
 
 <!--
 
