@@ -12,14 +12,14 @@ I'm a **Computer Science student** and aspiring **Systems Software Developer**. 
 - 🎯 Interested in **software optimization, system programming, and networking (cybersecurity)**
 
 ### 📌 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,html,js,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,js,python,c,git)](https://skillicons.dev)
 
 ### 🌟 GitHub Stats
 ![Zean Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xKurty06&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xKurty06&layout=compact&theme=radical)
 
 ### 📫 You can Reach out to Me at
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zean-kurt-balboa-18b2a3358)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:zeankurtbalboa06@gmail.com)
-
 
 **"When life hurts, coding heals🫀"**
