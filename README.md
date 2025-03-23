@@ -4,6 +4,8 @@
 
 I'm a **Computer Science student** and aspiring **Systems Software Developer**. Currently learning **Java, Web Development, System Administration, and Networking** through my studies and projects.
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ### 🚀 About Me
 - 💻 Studying **Computer Science** @ *Cavite State University - Main Campus*
 - 🔧 Certified in **Computer Systems Servicing (CSS) – TESDA NC2**
