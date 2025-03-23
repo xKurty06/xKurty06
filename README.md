@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Zean Kurt Balboa! 
+## 👋 Hi, I'm Zean Kurt! 
 
 🚀 *Currently inactive in GitHub.*
 
