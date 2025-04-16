@@ -14,7 +14,7 @@ I'm a **Computer Science student** and aspiring **Systems Software Developer** o
 - 🎯 Interested in **software optimization, system programming, and networking (cybersecurity)**
 
 ### 📌 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,html,js,python,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,js,python,c,git,github)](https://skillicons.dev)
 
 ### 🌟 GitHub Stats
 ![Zean Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xKurty06&show_icons=true&theme=radical)
