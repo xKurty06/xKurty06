@@ -8,7 +8,7 @@ I'm a **Computer Science student** and aspiring **Systems Software Developer** o
 ### 🚀 About Me
 - 💻 Studying **Computer Science** @ *Cavite State University - Main Campus*
 - 🔧 Certified in **Computer Systems Servicing (CSS) – TESDA NCII**
-- ⚙️ Learning **Java, Python, Web Development (HTML, CSS, JS), and Networking**
+- ⚙️ Learning **Java, Python, Web Development (HTML, CSS, JS, and Frameworks), and Networking**
 - 🛠️ Focusing on my studies to improve my skills and problem solving
 - 🎯 Interested in **software optimization, system programming, and networking (cybersecurity)**
 
