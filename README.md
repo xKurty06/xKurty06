@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Zean Kurt! 
 
-🚀 *Currently inactive in GitHub.*
 
 I'm a **Computer Science student** and aspiring **Systems Software Developer** or **Cybersecurity**. Currently learning **Java, Web Development, System Administration, and Networking** through my studies and projects.
 
