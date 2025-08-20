@@ -20,7 +20,7 @@ I'm a **Computer Science student** and aspiring **Systems Software Developer** o
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xKurty06&layout=compact&theme=radical)
 
 ### 📫 You can Reach out to Me at
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zean-kurt-balboa-18b2a3358)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zeank)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:zeankurtbalboa06@gmail.com)
 
 **"When life hurts, coding heals🫀"**
