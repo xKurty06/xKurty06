@@ -78,4 +78,9 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 
 ---
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 <p align="center"><i>"When life hurts, coding heals 🫀"</i></p>
+
