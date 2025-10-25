@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Hi, I'm Zean Kurt!  
+## Hi, I'm Zean Kurt! 👋 
 I'm a **Computer Science student** and aspiring **Software/Web Developer** and **Blockchain Enthusiast**.  
 Currently learning **Java, Web Development, System Administration, and Networking** through my studies and projects.
 
