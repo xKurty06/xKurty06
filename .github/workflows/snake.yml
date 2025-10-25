@@ -20,6 +20,9 @@ jobs:
         with:
           github_user_name: xKurty06
           outputs: dist/snake.svg
+          color_snake: "#05cbf7"
+          color_dots: "#282a36 #44475a #f8f8f2 #ffb86c #ff79c6"
+
 
       - name: Push the generated snake file
         uses: crazy-max/ghaction-github-pages@v3.1.0
