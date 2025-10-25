@@ -19,9 +19,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: xKurty06
-          outputs: dist/snake.svg
-          color_snake: "#05cbf7" # Neon blue snake
-          color_dots: "#0a0a0a #1a1a1a #222222 #444444 #05cbf7" # Dark background with blue accents
+          outputs: dist/snake-dark.svg
+          color_snake: "#05cbf7"
+          color_dots: "#000000 #111111 #1a1a1a #2a2a2a #05cbf7"
+          # 👆 fully black background tones, keeps snake neon blue
 
       - name: Push the generated snake file
         uses: crazy-max/ghaction-github-pages@v3.1.0
