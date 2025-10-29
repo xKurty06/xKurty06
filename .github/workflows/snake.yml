@@ -18,8 +18,8 @@ jobs:
           github_user_name: xKurty06
           outputs: |
             dist/snake.svg
-          color_snake: "#05cbf7"
-          color_dots: "#0a0a0a #1a1a1a #222222 #444444 #05cbf7"
+          color_snake: "#00FFFF" # Aqua
+          color_dots: "#000000 #111111 #1a1a1a #222222 #333333" # Black to dark gray gradient background
 
       - name: Upload Snake
         uses: crazy-max/ghaction-github-pages@v3
