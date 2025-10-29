@@ -2,20 +2,25 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: xKurty06
-          outputs: dist/snake.svg
-          color_snake: "#05cbf7" # Neon blue snake
-          color_dots: "#0a0a0a #1a1a1a #222222 #444444 #05cbf7" # Dark background & neon accent
+          outputs: |
+            dist/snake.svg
+          color_snake: "#05cbf7"
+          color_dots: "#0a0a0a #1a1a1a #222222 #444444 #05cbf7"
+
       - name: Upload Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
