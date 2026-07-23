@@ -68,6 +68,14 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/xKurty06/xKurty06/output/snake.svg)
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/xKurty06/xKurty06/-/raw/main/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/xKurty06/xKurty06/-/raw/main/output/bomberman-contribution-graph.svg">
+    <img alt="Bomberman contribution graph" src="https://gitlab.com/xKurty06/xKurty06/-/raw/main/output/bomberman-contribution-graph.svg">
+</picture>
 
 </div>
 
