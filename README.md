@@ -88,7 +88,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zeank) 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:zeankurtbalboa06@gmail.com) 
+[![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=zeankurtbalboa06@gmail.com) 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/kurtt.z)
 
 </div>
