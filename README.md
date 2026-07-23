@@ -69,7 +69,16 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 
 <!-- ![snake gif](https://raw.githubusercontent.com/xKurty06/xKurty06/output/snake.svg) -->
 <!-- Bomberman Contribution Graph -->
-![bomberman gif](https://raw.githubusercontent.com/xKurty06/xKurty06/output/bomberman.svg)
+<div align="center">
+
+<!-- Bomberman Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xKurty06/xKurty06/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xKurty06/xKurty06/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/xKurty06/xKurty06/output/bomberman-contribution-graph-dark.svg">
+</picture>
+
+</div>
 
 </div>
 
