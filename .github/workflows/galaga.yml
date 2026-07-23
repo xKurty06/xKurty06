@@ -1,9 +1,9 @@
-name: Generate Bomberman Contribution Graph
+name: Generate Galaga Contribution Graph
 
 on:
   schedule:
     # Runs every 24 hours
-    - cron: "0 */12 * * *"
+    - cron: "0 0/12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -20,8 +20,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Specify bomberman here!
-          games: 'bomberman'
+          # Changed to galaga!
+          games: 'galaga'
           
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
