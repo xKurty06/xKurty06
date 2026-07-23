@@ -45,7 +45,6 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 
 ---
 
-### 🏆 GitHub Achievements
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xkurty06&theme=react-dark&hide_border=true" width="700" alt="Activity Graph"/>
 </div>
