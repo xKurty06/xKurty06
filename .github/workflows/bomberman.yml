@@ -2,25 +2,28 @@ name: Generate Bomberman Contribution Graph
 
 on:
   schedule:
-    # Runs every 12 hours
+    # Runs every 24 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Bomberman Animation
-        uses: abozanona/pacman-contribution-graph@main # Or use the specific action configuration provided in the repo instructions
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: xKurty06
-          # Output file paths
-          output: dist/bomberman.svg
-
-      - name: Push to output branch
+          github_user_name: ${{ github.repository_owner }}
+          # Specify bomberman here!
+          games: 'bomberman'
+          
+      - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
