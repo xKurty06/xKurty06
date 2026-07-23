@@ -67,7 +67,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ---
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/xKurty06/xKurty06/output/snake.svg)
+<!-- ![snake gif](https://raw.githubusercontent.com/xKurty06/xKurty06/output/snake.svg) -->
 <!-- Bomberman Contribution Graph -->
 ![bomberman gif](https://raw.githubusercontent.com/xKurty06/xKurty06/output/bomberman.svg)
 
