@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 ## Hi, I'm Zean Kurt! 👋 
 I'm a **Computer Science student** and aspiring **Software/Web Developer** and **Blockchain Enthusiast**.  
