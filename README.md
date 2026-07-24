@@ -63,7 +63,6 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 
 </div>
 
----
 
 <div align="center">
 <!-- Galaga Contribution Graph -->
@@ -74,7 +73,6 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 </picture>
 </div>
 
----
 
 <div align="center">
 
