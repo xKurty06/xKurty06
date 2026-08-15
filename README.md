@@ -22,7 +22,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ### 🚀 About Me
 - 💻 **Computer Science student** @ *Cavite State University - Main Campus*  
 - 🔧 **TESDA NCII Certified** in *Computer Systems Servicing (CSS)*  
-- ⚙️ Learning **Java, Python, Web Development (HTML, CSS, JS, React, Next.js), and Networking**  
+- ⚙️ Learning **Java, Python, Web Development (HTML, CSS, JS, React, Next.js, and Networking**  
 - 🧠 Focused on improving my **problem-solving** and **system-level thinking**  
 - 🎯 Passionate about **software optimization and system programming**
 
@@ -38,7 +38,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ### 🧠 Skills & Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,js,ts,python,c,css,react,next,tailwind,nodejs,discordjs,eclipse,pycharm,vscode,idea,git,github,discord,replit&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,js,ts,python,react,next,tailwind,nodejs,laravel,mysql,supabase,npm,obsidian,discordjs,eclipse,pycharm,vscode,idea,git,github,discord&perline=11)](https://skillicons.dev)
 
 </div>
 
