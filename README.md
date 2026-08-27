@@ -9,9 +9,8 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 
 <div align="center">
   
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-![Profile Views](https://komarev.com/ghpvc/?username=xKurty06&color=blueviolet&style=flat)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
+<img src="https://komarev.com/ghpvc/?username=xKurty06&color=blueviolet&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -36,7 +35,9 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ### 🧠 Skills & Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,js,ts,python,react,next,tailwind,nodejs,laravel,mysql,supabase,npm,obsidian,discordjs,eclipse,pycharm,vscode,idea,git,github,discord&perline=11)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,html,js,ts,python,react,next,tailwind,nodejs,laravel,mysql,supabase,npm,obsidian,discordjs,eclipse,pycharm,vscode,idea,git,github,discord&perline=11" alt="My Skills" />
+</a>
 
 </div>
 
@@ -44,17 +45,20 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xKurty06&theme=react-dark&hide_border=true&v=1)](https://github.com/xKurty06)
+<a href="https://github.com/xKurty06">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xKurty06&theme=react-dark&hide_border=true&v=2" width="700" alt="Activity Graph"/>
+</a>
 
 </div>
-
 
 ---
 
 ### 🌟 GitHub Stats & Streaks
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xKurty06&theme=radical&border_radius=10&v=1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xKurty06&theme=radical&border_radius=10&v=2" alt="GitHub Streak" height="160"/>
+</a>
 
 </div>
 <br>
@@ -72,7 +76,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
 </div>
 
@@ -81,9 +85,9 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ### 📫 Reach Out to Me
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zeank) 
-[![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=zeankurtbalboa06@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/kurtt.z)
+<a href="https://www.linkedin.com/in/zeank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=zeankurtbalboa06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://discord.com/users/kurtt.z"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
 
 </div>
 
