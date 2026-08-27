@@ -43,7 +43,9 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xkurty06&theme=react-dark&hide_border=true" width="700" alt="Activity Graph"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xKurty06&theme=react-dark&hide_border=true&v=1)](https://github.com/xKurty06)
+
 </div>
 
 
@@ -52,11 +54,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ### 🌟 GitHub Stats & Streaks
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=xKurty06&show_icons=true&theme=radical" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKurty06&layout=compact&theme=radical" height="160">  
-<br>
--->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xKurty06&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="160"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=xKurty06&theme=radical&border_radius=10&v=1)](https://git.io/streak-stats)
 
 </div>
 <br>
