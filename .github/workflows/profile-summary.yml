@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: xKurty06
-          theme: radical
-          card_width: 800
+          USERNAME: xKurty06
+          THEME: radical
