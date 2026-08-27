@@ -43,7 +43,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xKurty06/xKurty06/main/profile-summary-card-output/radical/grid.svg" width="700" alt="Activity Graph">
+  <img src="https://raw.githubusercontent.com/xKurty06/xKurty06/main/profile-summary-card-output/radical/profile-details.svg" width="700" alt="Activity Graph">
 </div>
 
 ---
