@@ -43,9 +43,7 @@ Currently learning **Java, Web Development, System Administration, and Networkin
 ---
 
 <div align="center">
-  <a href="https://github.com/xKurty06">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xKurty06&theme=radical&hide_border=true&v=4" width="700" alt="Activity Graph">
-  </a>
+  <img src="https://raw.githubusercontent.com/xKurty06/xKurty06/main/profile-summary-card-output/radical/grid.svg" width="700" alt="Activity Graph">
 </div>
 
 ---
