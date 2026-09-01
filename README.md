@@ -4,7 +4,7 @@
 
 </div>
 
-I'm a **Computer Science student** and aspiring **Software/Web Developer** and **Blockchain Enthusiast**.  
+I'm a **Computer Science Student** and aspiring **Software/Web Developer** and **Blockchain Enthusiast**.  
 Currently learning **Java, Web Development, System Administration, and Networking** through my studies and projects.
 
 <div align="center">
