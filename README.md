@@ -45,7 +45,7 @@ I'm a third-year **BS Computer Science** student at **Cavite State University**,
 | **[Lost-N-Found](https://github.com/xKurty06/Lost-N-Found)** | Lost and found system. | **Software Developer** |
 | **Next.js starters** | Reusable project templates: [Next.js + Supabase](https://github.com/xKurty06/nextjs-supabase-template) and [Next.js + Laravel](https://github.com/xKurty06/nextjs-laravel-template). | **Full-stack Developer** |
 | **[WebX](https://github.com/Build-on-Web-X/web-x)** | Web development team and organization I co-founded. | **Co-founder & Full-stack Developer** |
-| **Studio Nomads** | Photography collective I co-founded. | **Co-founder & Photographer** |
+| **Studio Nomads** | Photography collective I co-founded. | **Co-founder, Photographer, Videographer, & Editor** |
 | **[iThink 2025 ICP Hackathon](https://github.com/waffensultan/ithink2025-icp-hackathon)** | Hackathon entry that reached the finalist round at ICP Hub Philippines. | **Team Member · Finalist** |
 | **[Automated Faculty Load & Room Scheduler](https://github.com/kurtmccarver/Automated-Faculty-Load-Room-Scheduler)** | Automated scheduling of faculty loads and rooms. | **Contributing Developer** |
 | **[KokConnect](https://github.com/xKurty06/kokconnect)** | Online ordering web app with menu search and sorting, cart, checkout with map-based delivery location, and order tracking. Next.js. | **Lead Developer** |
