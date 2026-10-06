@@ -110,7 +110,7 @@ I'm a third-year **BS Computer Science** student at **Cavite State University**,
 
 <img src="https://raw.githubusercontent.com/xKurty06/xKurty06/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" width="100%" />
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xKurty06/xKurty06/output/galaga-contribution-graph-dark.svg">
