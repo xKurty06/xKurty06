@@ -58,7 +58,7 @@ I'm a third-year **BS Computer Science** student at **Cavite State University**,
 | **[ZiellyCheese](https://github.com/xKurty06/ZiellyCheese)** | Dedicated website for ZiellyCheese, built with HTML and CSS. | **Web Developer** |
 | **[StitchyBot](https://github.com/xKurty06/StitchyBot)** | Aoi.js Discord bot template with command, variable, status and bot handlers, shared for other bot makers. | **Discord Bot Developer** |
 | **Academic projects** ([BSCS-CvSU](https://github.com/xKurty06/BSCS-CvSU), [PromptEngineering-DCIT25](https://github.com/xKurty06/PromptEngineering-DCIT25)) | Coursework and projects from my BS Computer Science program at CvSU. | **BS Computer Science Student** |
-| **Zentra** | Discord community for blockchain and web3 knowledge sharing, co-founded with friends. | **Co-founder & Community Architect** |
+| **Zentra** | Discord community for blockchain and web3 knowledge sharing. | **Head Admin & Moderation** |
 | **FeedFlow** | Client proposal for an agri-supply retail store: a browser-based operations platform focused on cash and inventory accountability. | **Co-author · System Proposal** |
 
 ---
