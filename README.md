@@ -113,9 +113,9 @@ I'm a third-year **BS Computer Science** student at **Cavite State University**,
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zekuuu/xKurty06/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zekuuu/xKurty06/output/galaga-contribution-graph.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/zekuuu/xKurty06/output/galaga-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zekuuu/zekuuu/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zekuuu/zekuuu/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/zekuuu/zekuuu/output/galaga-contribution-graph.svg" width="100%">
 </picture>
 
 </div>
