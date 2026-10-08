@@ -37,27 +37,27 @@ I'm a third-year **BS Computer Science** student at **Cavite State University**,
 
 | Project | What it is | My role |
 | --- | --- | --- |
-| **[Clario](https://github.com/xKurty06/clario)** | Desktop spreadsheet validation and auditing tool. React, TypeScript, Vite, FastAPI, SQLite, Electron. | **Full-stack Developer** |
-| **[CLINIQ](https://github.com/xKurty06/cliniq)** | Clinic tracking and monitoring system for Mendez Christian Academy, built with CvSU CEIT teammates. React, TypeScript, Laravel, Tailwind, MySQL. | **Lead Developer** |
-| **[zen-bot](https://github.com/xKurty06/zen-bot)** | Discord bot with an embed builder and ElevenLabs text-to-speech for Taglish voice channels. Discord.js. | **Backend Developer** |
-| **[Portfolio](https://github.com/xKurty06/zeankurt-portfolio)** | [zeankurt.vercel.app](https://zeankurt.vercel.app): animated personal site with a photography gallery. Next.js, TypeScript, Tailwind, GSAP, Framer Motion. | **Frontend Developer & Designer** |
-| **[Campus Org Event Management](https://github.com/xKurty06/Centralized-Campus-Org-Event-Management)** | Centralized system for managing campus organization events. | **Software Developer** |
-| **[Lost-N-Found](https://github.com/xKurty06/Lost-N-Found)** | Lost and found system. | **Software Developer** |
-| **Next.js starters** | Reusable project templates: [Next.js + Supabase](https://github.com/xKurty06/nextjs-supabase-template) and [Next.js + Laravel](https://github.com/xKurty06/nextjs-laravel-template). | **Full-stack Developer** |
+| **[Clario](https://github.com/zekuuu/clario)** | Desktop spreadsheet validation and auditing tool. React, TypeScript, Vite, FastAPI, SQLite, Electron. | **Full-stack Developer** |
+| **[CLINIQ](https://github.com/zekuuu/cliniq)** | Clinic tracking and monitoring system for Mendez Christian Academy, built with CvSU CEIT teammates. React, TypeScript, Laravel, Tailwind, MySQL. | **Lead Developer** |
+| **[zen-bot](https://github.com/zekuuu/zen-bot)** | Discord bot with an embed builder and ElevenLabs text-to-speech for Taglish voice channels. Discord.js. | **Backend Developer** |
+| **[Portfolio](https://github.com/zekuuu/zeankurt-portfolio)** | [zeankurt.vercel.app](https://zeankurt.vercel.app): animated personal site with a photography gallery. Next.js, TypeScript, Tailwind, GSAP, Framer Motion. | **Frontend Developer & Designer** |
+| **[Campus Org Event Management](https://github.com/zekuuu/Centralized-Campus-Org-Event-Management)** | Centralized system for managing campus organization events. | **Software Developer** |
+| **[Lost-N-Found](https://github.com/zekuuu/Lost-N-Found)** | Lost and found system. | **Software Developer** |
+| **Next.js starters** | Reusable project templates: [Next.js + Supabase](https://github.com/zekuuu/nextjs-supabase-template) and [Next.js + Laravel](https://github.com/zekuuu/nextjs-laravel-template). | **Full-stack Developer** |
 | **[WebX](https://github.com/Build-on-Web-X/web-x)** | Web development team and organization I co-founded. | **Co-founder & Full-stack Developer** |
 | **Studio Nomads** | Photography collective I co-founded. | **Co-founder, Photographer, Videographer, & Editor** |
 | **[iThink 2025 ICP Hackathon](https://github.com/waffensultan/ithink2025-icp-hackathon)** | Hackathon entry that reached the finalist round at ICP Hub Philippines. | **Team Member · Finalist** |
 | **[Automated Faculty Load & Room Scheduler](https://github.com/kurtmccarver/Automated-Faculty-Load-Room-Scheduler)** | Automated scheduling of faculty loads and rooms. | **Contributing Developer** |
-| **[KokConnect](https://github.com/xKurty06/kokconnect)** | Online ordering web app with menu search and sorting, cart, checkout with map-based delivery location, and order tracking. Next.js. | **Lead Developer** |
+| **[KokConnect](https://github.com/zekuuu/kokconnect)** | Online ordering web app with menu search and sorting, cart, checkout with map-based delivery location, and order tracking. Next.js. | **Lead Developer** |
 | **[NameThat](https://github.com/kurtmccarver/name-that)** | Web3 mini app on Base where users upload an image and the community suggests and votes on names. I built the profile, explore, create and voting flows, the leaderboard, wallet linking and the Supabase-backed APIs. Next.js, Tailwind, Supabase. | **Full-stack Developer** |
 | **[Beavr](https://github.com/kurtmccarver/Beavr)** | On-demand local services platform that connects customers with verified specialists in the Philippines. I built sign-up and onboarding, the specialist dashboard, live job tracking on a map, and the jobs and reviews APIs. Next.js, Supabase. | **Full-stack Developer** |
 | **[Aurum](https://github.com/kuwarte/aurum)** | Autonomous AI credit bureau on the Casper Network that gives wallets and agents a verifiable on-chain credit profile. I wrote the Odra smart contracts (CreditRegistry, OraclePaywall, ReputationRegistry), the deployment scripts and docs, and wired the frontend demo to the API. Rust, Python, Next.js. | **Smart Contract Developer** |
-| **[Catch The Block UI](https://github.com/xKurty06/ctb-ui)** | Interface for Catch The Block, a blockchain game made for the Blockchain Conference 2025, with a cyberpunk neon design, animated overlays and sound effects. Next.js, Tailwind. | **Frontend Developer** |
+| **[Catch The Block UI](https://github.com/zekuuu/ctb-ui)** | Interface for Catch The Block, a blockchain game made for the Blockchain Conference 2025, with a cyberpunk neon design, animated overlays and sound effects. Next.js, Tailwind. | **Frontend Developer** |
 | **[PlanPal](https://github.com/kurtmccarver/plan-pal)** | Escrow-based platform where organizations manage group funds transparently with vaults and role-based access. I built the onboarding and sign-up pages. Next.js. | **Frontend Developer** |
-| **[Peppa's Shoppe Discord Bot](https://github.com/xKurty06/Peppa-Slave)** | Custom Discord bot for the Peppa's Shoppe server with a ticket system, vouch system and moderation commands. Aoi.js. | **Discord Bot Developer** |
-| **[ZiellyCheese](https://github.com/xKurty06/ZiellyCheese)** | Dedicated website for ZiellyCheese, built with HTML and CSS. | **Web Developer** |
-| **[StitchyBot](https://github.com/xKurty06/StitchyBot)** | Aoi.js Discord bot template with command, variable, status and bot handlers, shared for other bot makers. | **Discord Bot Developer** |
-| **Academic projects** ([BSCS-CvSU](https://github.com/xKurty06/BSCS-CvSU), [PromptEngineering-DCIT25](https://github.com/xKurty06/PromptEngineering-DCIT25)) | Coursework and projects from my BS Computer Science program at CvSU. | **BS Computer Science Student** |
+| **[Peppa's Shoppe Discord Bot](https://github.com/zekuuu/Peppa-Slave)** | Custom Discord bot for the Peppa's Shoppe server with a ticket system, vouch system and moderation commands. Aoi.js. | **Discord Bot Developer** |
+| **[ZiellyCheese](https://github.com/zekuuu/ZiellyCheese)** | Dedicated website for ZiellyCheese, built with HTML and CSS. | **Web Developer** |
+| **[StitchyBot](https://github.com/zekuuu/StitchyBot)** | Aoi.js Discord bot template with command, variable, status and bot handlers, shared for other bot makers. | **Discord Bot Developer** |
+| **Academic projects** ([BSCS-CvSU](https://github.com/zekuuu/BSCS-CvSU), [PromptEngineering-DCIT25](https://github.com/zekuuu/PromptEngineering-DCIT25)) | Coursework and projects from my BS Computer Science program at CvSU. | **BS Computer Science Student** |
 | **Zentra** | Discord community for blockchain and web3 knowledge sharing. | **Head Admin & Moderation** |
 | **FeedFlow** | Client proposal for an agri-supply retail store: a browser-based operations platform focused on cash and inventory accountability. | **Co-author · System Proposal** |
 
@@ -108,14 +108,14 @@ I'm a third-year **BS Computer Science** student at **Cavite State University**,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xKurty06/xKurty06/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" width="100%" />
+<img src="https://raw.githubusercontent.com/zekuuu/xKurty06/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" width="100%" />
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xKurty06/xKurty06/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xKurty06/xKurty06/output/galaga-contribution-graph.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/xKurty06/xKurty06/output/galaga-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zekuuu/xKurty06/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zekuuu/xKurty06/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/zekuuu/xKurty06/output/galaga-contribution-graph.svg" width="100%">
 </picture>
 
 </div>
